@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attendance Management System</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="About">About</string>
+    <string name="total_student">Total Student</string>
+    <string name="set">Set</string>
+</resources>
